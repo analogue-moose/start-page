@@ -107,6 +107,13 @@ ul
 	{
 		position: static;
 		margin-bottom: 18px !important;
+		height: 200px;
+	}
+
+	.box li a
+	{
+		opacity: 1;
+		transition: opacity .5s ease-in;
 	}
 
 	#occasional { margin-bottom: 0px !important; }
